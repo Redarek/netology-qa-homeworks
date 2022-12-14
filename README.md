@@ -10,13 +10,13 @@
 - [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://docs.google.com/document/d/1eWt3X_wU4ZbzcO3jyTec7HEckmKD9U6EZsmmgoJQ2Ck/edit)
 - [Курсовая работа по итогам 1 блока](https://docs.google.com/spreadsheets/d/1MYuUPlbS-y_iiJmNHCxe133I-WspcNccARn7ijTwMhE/edit#gid=0)
 ## Блок 2. Git — система контроля версий
-- Внедрение системы контроля версий Git и GITHUB [Задание 1](https://github.com/Redarek/origin) [Задание 2](https://github.com/Redarek/netology-homework-2)
+- Внедрение системы контроля версий Git и GITHUB<br>[Задание 1](https://github.com/Redarek/origin) [Задание 2](https://github.com/Redarek/netology-homework-2)
 - [История работы и ветки](https://github.com/Redarek/tesst1)
-- Командная работа [Задание 1](https://github.com/Redarek/git-homeworks-neuro-fork) [Задание 2](https://github.com/netology-code/git-homeworks-neuro-issues/issues/10188) [Задание 3](https://github.com/netology-code/git-homeworks-neuro-pr/pull/5142)
+- Командная работа<br>[Задание 1](https://github.com/Redarek/git-homeworks-neuro-fork) [Задание 2](https://github.com/netology-code/git-homeworks-neuro-issues/issues/10188) [Задание 3](https://github.com/netology-code/git-homeworks-neuro-pr/pull/5142)
 ## Блок 3. Java для тестировщиков
 - [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/Redarek/hw-java-1)
-- Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений [Задание 1](https://github.com/Redarek/hw-java-2.1/tree/master) [Задание 2](https://github.com/Redarek/hw-java-2.2)
-- Testability, авто-тесты, введение в ООП: объекты и методы [Задание 1](https://github.com/Redarek/hw-java-4.1) [Задание 2](https://github.com/Redarek/hw-java-4.2) [Задание 3](https://github.com/Redarek/hw-java-4.3)
+- Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений<br>[Задание 1](https://github.com/Redarek/hw-java-2.1/tree/master) [Задание 2](https://github.com/Redarek/hw-java-2.2)
+- Testability, авто-тесты, введение в ООП: объекты и методы<br>[Задание 1](https://github.com/Redarek/hw-java-4.1) [Задание 2](https://github.com/Redarek/hw-java-4.2) [Задание 3](https://github.com/Redarek/hw-java-4.3)
 - [Система сборки Maven, управление зависимостями, авто-тесты на JUnit5](https://github.com/Redarek/hw-java-5.1)
 - [Пакеты и циклы](https://github.com/Redarek/hw-java-6.1)
 - [Строки и массивы](https://github.com/Redarek/hw-java-7.1)
@@ -31,11 +31,11 @@
 - [Collections Framework. CRUD и тестирование систем, управляющих набором объектов](https://github.com/Redarek/hw-java-16.1)
 ## Блок 4. Автоматизированное тестирование веб-приложений на Java
 - [Основы автоматизации](https://github.com/Redarek/hw-java-web-1.1)
-- Тестирование API. CI [Задание 1](https://github.com/Redarek/hw-java-web-2.1) [Задание 2](https://github.com/Redarek/hw-java-web-2.3)
+- Тестирование API. CI<br>[Задание 1](https://github.com/Redarek/hw-java-web-2.1) [Задание 2](https://github.com/Redarek/hw-java-web-2.3)
 - [Тестирование веб-интерфейсов, Selenium и Selenide](https://github.com/Redarek/hw-java-web-3.1)
 - [Selenide](https://github.com/Redarek/hw-java-web-4.1)
-- Patterns [Задание 1](https://github.com/Redarek/hw-java-web-5.1) [Задание 2](https://github.com/Redarek/hw-java-web-5.2)
+- Patterns<br>[Задание 1](https://github.com/Redarek/hw-java-web-5.1) [Задание 2](https://github.com/Redarek/hw-java-web-5.2)
 - [Behaviour Driven Development](https://github.com/Redarek/hw-java-web-6.1)
-- Docker и Docker Compose [Задание 1](https://github.com/Redarek/hw-java-web-7.1) [Задание 2](https://github.com/Redarek/hw-java-web-7.2)
+- Docker и Docker Compose<br>[Задание 1](https://github.com/Redarek/hw-java-web-7.1) [Задание 2](https://github.com/Redarek/hw-java-web-7.2)
 ## Блок 5 Дипломная работа профессии Тестировщик
 - [Дипломное задание профессии «Тестировщик ПО»](https://github.com/Redarek/qa-diploma)
