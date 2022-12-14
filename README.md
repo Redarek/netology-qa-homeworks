@@ -37,5 +37,5 @@
 - Patterns<br>[Задание 1](https://github.com/Redarek/hw-java-web-5.1) [Задание 2](https://github.com/Redarek/hw-java-web-5.2)
 - [Behaviour Driven Development](https://github.com/Redarek/hw-java-web-6.1)
 - Docker и Docker Compose<br>[Задание 1](https://github.com/Redarek/hw-java-web-7.1) [Задание 2](https://github.com/Redarek/hw-java-web-7.2)
-## Блок 5 Дипломная работа профессии Тестировщик
+## Блок 5. Дипломная работа профессии Тестировщик
 - [Дипломное задание профессии «Тестировщик ПО»](https://github.com/Redarek/qa-diploma)
